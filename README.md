@@ -2,7 +2,7 @@
 
 Game inspired by Simon, where users can test their memory skills.
 
-![Color Memory Project preview image](./project-preview.png)
+![Color Memory Project preview image](https://github.com/elise-bigdevsoon/big-dev-soon-color-memory/blob/main/project-preview.png)
 
 ## Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
